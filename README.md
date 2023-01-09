@@ -292,4 +292,3 @@ Outputs:
 
   PrivateSubnet3:
     Value: !Ref PrivateSubnet3
-    ```
